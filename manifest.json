@@ -1,0 +1,16 @@
+{
+  "name": "한자 학습",
+  "short_name": "한자",
+  "description": "간격반복 기반 한자 음·뜻·획 학습",
+  "start_url": "/hanja-quiz-web/",
+  "scope": "/hanja-quiz-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#059669",
+  "background_color": "#059669",
+  "lang": "ko",
+  "icons": [
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
+  ]
+}
